@@ -1,0 +1,18 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "cSpell.words": [
+    "ehthumbs",
+    "esktop",
+    "eslintcache",
+    "localdevserver",
+    "pycache",
+    "sfdx",
+    "venv"
+  ],
+  "salesforcedx-vscode-core.show-cli-success-msg": false,
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true
+}
