@@ -46,3 +46,9 @@ $RECYCLE.BIN/
 
 # NPM's lock file
 package-lock.json
+
+# ignores all profiles
+test-matrix-ui/main/default/profiles/*.profile-meta.xml
+
+# except for admin's
+!test-matrix-ui/main/default/profiles/Admin.profile-meta.xml
