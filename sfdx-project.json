@@ -1,8 +1,8 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
-      "default": true
+      "path": "test-director-fw",
+      "default": false
     }
   ],
   "name": "apex-test-director",
